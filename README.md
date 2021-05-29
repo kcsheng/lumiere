@@ -20,11 +20,12 @@ An employer is looking for a potential candidate for an open position. The emplo
 
 ### Wireframe
 
-At the beginning of the project, the wireframe was drawn to serve as the backbone of the site:![wireframe demo of lumiere portfolio site](./assets/lumiere-wireframe.png)
+At the beginning of the project, the wireframe was drawn to serve as the backbone of the site:<br>
+![wireframe demo of lumiere portfolio site](./assets/lumiere-wireframe.png)
 
 ### Color palette
 
-In terms of the feel of presentation, I choose the following color scheme:
+In terms of the feel of presentation, I choose the following color scheme:<br>
 ![colors used for lumiere portfolio site](./assets/colors.png)
 
 ### Test

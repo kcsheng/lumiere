@@ -7,5 +7,10 @@
 }
 
 html {
-  font-size: 62.5%; /* Set root font starting at 10px */
+  font-size: 62.5%; /* Set base root font at 10px */
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.75rem; /* Global font size is set to 17.5px */
 }

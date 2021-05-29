@@ -24,7 +24,8 @@ At the beginning of the project, the wireframe was drawn to serve as the backbon
 
 ### Color palette
 
-In terms of the feel of presentation, I choose the following color scheme: ![colors used for lumiere portfolio site](./assets/colors.png)
+In terms of the feel of presentation, I choose the following color scheme:
+![colors used for lumiere portfolio site](./assets/colors.png)
 
 ### Test
 

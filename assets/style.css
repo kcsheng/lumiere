@@ -1,1 +1,11 @@
+:root {
+  --armygreen: #2c3531;
+  --teal: #116466;
+  --peach-orange: #d9b0bc;
+  --apricot: #ffcb9a;
+  --lightblue: #d1e8e2;
+}
 
+html {
+  font-size: 62.5%; /* Set root font starting at 10px */
+}

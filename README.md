@@ -1,4 +1,4 @@
-The website project 'lumiere' is a mock-up portfolio that showcases personal projects to catch the eye of a potential employer. This portfolio should demonstrate necessary html and css skills as a web developer.
+The website project 'lumiere' is a mock-up portfolio that showcases personal app projects to catch the eye of a potential employer. This portfolio itself should demonstrate necessary html and css skills as a web developer.
 
 ### User story <br>
 
@@ -20,7 +20,7 @@ An employer is looking for a potential candidate for an open position. The emplo
 
 ### Wireframe
 
-At the beginning of the project, the wireframe was drawn to serve as the backbone:![wireframe demo of lumiere portfolio site](./assets/lumiere-wireframe.png)
+At the beginning of the project, the wireframe was drawn to serve as the backbone of the site:![wireframe demo of lumiere portfolio site](./assets/lumiere-wireframe.png)
 
 ### Test
 

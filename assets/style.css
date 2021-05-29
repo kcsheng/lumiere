@@ -11,6 +11,39 @@ html {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
-  font-size: 1.75rem; /* Global font size is set to 17.5px */
+  font-family: Montserrat, sans-serif;
+  font-size: 1.7rem; /* Global font size is set to 17px */
+  line-height: 1.5;
+  background-color: var(--armygreen);
+  color: var(--lightblue);
+}
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+  color: var(--apricot);
+}
+
+h3 {
+  color: var(--peach-orange);
+}
+
+h1 {
+  font-family: Oswald, sans-serif;
+  font-size: 6rem;
+  letter-spacing: 10px;
+}
+
+h2 {
+  font-size: 3.5rem;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+h4 {
+  font-size: 1.9rem;
 }

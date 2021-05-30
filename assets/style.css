@@ -133,6 +133,11 @@ main {
 .proj-img5 {
   width: 100%;
   display: block;
+  filter: grayscale(80%);
+}
+
+a[class~="linked-img"]:hover img {
+  filter: grayscale(0);
 }
 
 .project1-img,
@@ -167,6 +172,7 @@ main {
   background-color: var(--teal);
   padding: 0 15px;
   bottom: 15px;
+  z-index: 1;
 }
 
 .work-proj-flex {

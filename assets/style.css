@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: Montserrat, sans-serif;
-  font-size: 1.7rem; /* Global font size is set to 17px */
+  font-size: 1.7rem; /* Global font size is set to 16px */
   line-height: 1.5;
   background-color: var(--armygreen);
   color: var(--lightblue);
@@ -37,7 +37,7 @@ h3 {
 }
 
 h4 {
-  font-size: 2rem;
+  color: var(--apricot);
 }
 
 p {
@@ -126,7 +126,74 @@ main {
   flex-basis: 75%;
 }
 
+.proj-img1,
+.proj-img2,
+.proj-img3,
+.proj-img4,
+.proj-img5 {
+  max-width: 100%;
+  display: block;
+}
+
+.project1-img,
+.project2-img,
+.project3-img,
+.project4-img,
+.project5-img {
+  border: 5px solid var(--teal);
+}
+
+.project1 {
+  width: 100%;
+  position: relative;
+  padding: 1%;
+}
+
+.project2,
+.project3,
+.project4,
+.project5 {
+  width: 50%;
+  position: relative;
+  padding: 1%;
+}
+
+.project1-desc,
+.project2-desc,
+.project3-desc,
+.project4-desc,
+.project5-desc {
+  position: absolute;
+  background-color: var(--teal);
+  padding: 0 15px;
+  bottom: 15px;
+}
+
+.work-proj-flex {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.proj-h4 a {
+  color: var(--apricot);
+}
+
+.proj-h4 + p {
+  font-size: 1.3rem;
+}
+
+.contact-methods {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.contact-methods li {
+  padding: 1.2%;
+}
+
 footer {
   text-align: center;
-  padding: 2% 0;
+  padding: 5% 0;
 }

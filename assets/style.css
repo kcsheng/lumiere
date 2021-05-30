@@ -235,7 +235,88 @@ footer {
   .tagline {
     position: absolute;
     right: 3%;
-    bottom: 1%;
     font-size: 2.4rem;
+    margin-bottom: 2%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .header-nav {
+    display: block;
+  }
+  h1 {
+    text-align: center;
+    padding-left: 0;
+    padding-top: 10%;
+  }
+
+  h2 {
+    font-size: 2.8rem;
+    color: var(--apricot);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  h3 {
+    color: var(--peach-orange);
+    font-size: 2rem;
+    padding: 2% 0;
+  }
+
+  p {
+    text-align: justify;
+    margin-top: 2%;
+    margin-bottom: 6%;
+  }
+
+  .header-nav nav {
+    padding: 3%;
+  }
+
+  .tagline {
+    position: absolute;
+    right: 3%;
+    bottom: 1%;
+    font-size: 1.8rem;
+  }
+
+  .work-proj-flex {
+    display: block;
+  }
+
+  .project2,
+  .project3,
+  .project4,
+  .project5 {
+    width: 100%;
+    padding: 1%;
+  }
+  footer p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 408px) {
+  .navlinks {
+    display: block;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+  }
+
+  .project1-desc,
+  .project2-desc,
+  .project3-desc,
+  .project4-desc,
+  .project5-desc {
+    padding: 0 5px;
+    bottom: 10px;
+  }
+
+  .proj-h4 + p {
+    font-size: 1rem;
   }
 }

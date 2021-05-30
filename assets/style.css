@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 4rem;
   color: var(--apricot);
 }
 
@@ -40,6 +40,10 @@ h3 {
 
 h4 {
   font-size: 1.9rem;
+}
+
+p {
+  margin-bottom: 1.5%;
 }
 
 a {
@@ -87,16 +91,27 @@ a:hover {
 
 .tagline {
   position: absolute;
-  right: 2.5%;
+  right: 4%;
   bottom: 2%;
   font-size: 2.7rem;
-  font-weight: 100;
   color: var(--apricot);
-  background-color: var(--armygreen);
-  padding: 0.5% 2%;
 }
 
 .content-wrapper {
   width: 90%;
   margin: 0 auto;
+}
+
+.about {
+  display: flex;
+  padding: 2%;
+}
+
+.about h2 {
+  border-right: 2px solid var(--lightblue);
+  padding: 0 2% 0 5%;
+}
+
+.about-content {
+  padding-left: 4%;
 }

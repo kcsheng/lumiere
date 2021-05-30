@@ -32,4 +32,4 @@ In terms of the feel of presentation, I choose the following color scheme:<br>
 
 ### Notes
 
-In the inital section of resume in the wireframe, there are two columns describing work experience and education. These columns are too narrow to present the description asthetically. As a result, this section has been changed to the normal stack flow appearance.
+In the inital section of resume in the wireframe, there are two columns that describes work experience and education. These columns are too narrow to present the description aesthetically. As a result, this section has been changed to the normal stack flow appearance.

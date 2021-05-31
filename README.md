@@ -30,9 +30,11 @@ In terms of the feel of presentation, I choose the following color scheme:<br>
 
 ### Test
 
-The wave test suggests no errors associated with accessibility. The alerts pertain to the embedded links which are designed according to the wireframe. <br>
+The wave test suggests no errors associated with accessibility. The alerts pertain to the embedded links which are designed according to the requirement. <br>
 ![WAVE test result](./test/wave-test.png)
 
 ### Notes
 
 To display the text neatly, the descriptions of work experience and education are presented in a stacked format, rather than two columns side by side as suggested by the initial wireframe.
+
+Additionally, an avatar, which is not shown in wireframe, has also been added to the page.

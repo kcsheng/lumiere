@@ -141,7 +141,6 @@ main {
   flex-basis: 30%;
 }
 .about-descr {
-  text-align: justify;
   padding-right: 2%;
   flex-basis: 70%;
 }

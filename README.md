@@ -38,3 +38,5 @@ The wave test suggests no errors associated with accessibility. The alerts perta
 To display the text neatly, the descriptions of work experience and education are presented in a stacked format, rather than two columns side by side as suggested by the initial wireframe.
 
 Additionally, an avatar, which is not shown in wireframe, has also been added to the page.
+
+This web page is fully responsive. With a desktop-first approach, the media query is written to fit the page in the smallest screen device, such as iphone 5.

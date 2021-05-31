@@ -126,6 +126,26 @@ main {
   flex-basis: 75%;
 }
 
+.about-content {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.avatar {
+  width: 100%;
+  display: block;
+}
+
+.about-avatar {
+  flex-basis: 30%;
+}
+.about-descr {
+  text-align: justify;
+  padding-right: 2%;
+  flex-basis: 70%;
+}
+
 .proj-img1,
 .proj-img2,
 .proj-img3,
@@ -277,6 +297,15 @@ footer {
 
   .header-nav nav {
     padding: 3%;
+  }
+
+  .about-content {
+    display: block;
+  }
+
+  .avatar {
+    width: 50%;
+    margin: 0 auto;
   }
 
   .tagline {

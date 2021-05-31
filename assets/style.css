@@ -225,8 +225,7 @@ a[class~="linked-img"]:hover img {
 }
 
 .contact-methods li {
-  padding: 1.2% 4%;
-  padding-left: 0;
+  padding: 1.2% 4% 1.2% 0;
 }
 
 footer {

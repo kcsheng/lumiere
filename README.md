@@ -30,6 +30,9 @@ In terms of the feel of presentation, I choose the following color scheme:<br>
 
 ### Test
 
+The wave test suggests no errors associated with accessibility. The alerts pertain to the embedded links which are designed according to the wireframe. <br>
+![WAVE test result](./test/wave-test.png)
+
 ### Notes
 
-In the inital section of resume in the wireframe, there are two columns that describes work experience and education. These columns are too narrow to present the description aesthetically. As a result, this section has been changed to the normal stack flow appearance.
+To display the text neatly, the descriptions of work experience and education are presented in a stacked format, rather than two columns side by side as suggested by the initial wireframe.
